@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myf-z-y
+- 👋 Hi, I’m @zjmyf
 - 👀 I’m interested in python, ML
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
